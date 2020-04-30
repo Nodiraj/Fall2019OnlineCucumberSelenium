@@ -36,5 +36,6 @@ public class Hooks {
         }
         System.out.println("Test clean up");
         Driver.closeDriver();
+        
     }
 }
